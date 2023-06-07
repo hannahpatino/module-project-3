@@ -2,11 +2,12 @@
 <html lang="en">
 
 <head>
-  <title>Functions</title>
+  <title>Functions 2.0</title>
 </head>
 
 <body>
   <h1>Functions</h1>
+  <!-- <h2>The is my new edit!</h2>-->
   <p>Please load this file in VSCode and Chrome, and open the Console in Chrome Dev Tools.</p>
   <p>Work through the challenges found inside the script tag in this document,
     until the Console reports all tests passing.</p>
